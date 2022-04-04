@@ -121,7 +121,15 @@ img {
 }
 
 .padding-1 {
-    padding: 2em;
+    padding: 1em;
+}
+
+.padding-2 {
+    padding: 1.5em;
+}
+
+.padding-bottom-1 {
+    padding-bottom:1.5em;
 }
 
 .flow > * + * {
@@ -140,12 +148,8 @@ img {
     text-align: center;
 }
 
-.card img {
-    margin-bottom: 2em;
-}
-
 .card__text_header {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
 }
 
 .card__text_body {
